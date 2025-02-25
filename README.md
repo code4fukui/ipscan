@@ -1,7 +1,11 @@
 # ipscan
 
+Where did my service go?
+
+## usage
+
 ```
-deno -A ipscan.js 8888 1
+deno -A https://code4fukui.github.io/ipscan/ipscan.js 8888 1
 ```
 →
 ```
