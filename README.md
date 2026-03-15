@@ -1,6 +1,8 @@
 # ipscan
 
-ipscan is a tool to scan IP addresses on a local network.
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
+`ipscan` is a tool to scan IP addresses on a local network.
 
 ## Usage
 
