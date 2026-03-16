@@ -24,4 +24,4 @@ This will output a list of URLs for services found on the local network on port 
 
 ## License
 
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).

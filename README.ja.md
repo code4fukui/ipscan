@@ -11,6 +11,7 @@
 ## 必要環境
 
 - Deno ランタイム
+- ネットワークアクセス権限
 
 ## 使い方
 
@@ -24,4 +25,4 @@ deno --allow-net https://code4fukui.github.io/ipscan/ipscan.js [ポート番号]
 
 ## ライセンス
 
-MIT License
+本プロジェクトは MIT ライセンスの下で公開されています。
